@@ -1,71 +1,37 @@
+# Hi, I'm Gabriel Dantas
 
-# Gabriel Dantas  
-**Creative Software Engineer · Technical Artist · 3D & Drone Show Engineering**  
-Brazil (João Pessoa, PB) · Open to remote/on-site/travel
+**Full-stack developer** who ships production systems end to end: Python and TypeScript backends, React frontends, design systems, and the tests that keep them honest.
 
----
+I came to software from **live drone-show engineering**, directing 3D animation synchronized across fleets of up to 1,600 aircraft for audiences of 100,000. In that world a bug is visible to a stadium. I build software the same way: deterministic, tested, owned in production.
 
-## About
-I’m a **creative software engineer** with a background in **3D Animation Design (Faculdade Méliès)** and international specialization in **Character Animation (Animation Mentor, USA)**. I’m currently pursuing a **B.Sc. in Software Engineering (FIAP)**, combining strong programming fundamentals with production experience in the 3D/VFX universe.
+📍 João Pessoa, Brazil · UTC−3 · open to remote contractor roles
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel3dborges) · [CV (PDF)](https://[site]/cv.pdf) · gabrieldantas1404@icloud.com
 
-I work as a creative and technical director for **drone light shows**, developing **3D animations synchronized with hundreds of real drones**. My role blends programming, procedural design, and systems engineering—turning code into a visual spectacle from concept to real-world execution in the sky.
+## What I've built
 
----
+| When | Where | What |
+|---|---|---|
+| **2026 – now** | **Copesolo & Concresolo** · Technology & Innovation Lead | Sole engineer of the company-wide system for the largest foundation and geotechnical engineering firm in Northeast Brazil (~100 employees): production tracking, warehouse inventory, machinery control, HR. WhatsApp automation that inverted daily site reporting. Two-regime payroll-bonus engine with row-level locking so concurrent requests can't pay the same work twice. 125 automated tests. |
+| **2026** | **FaturaMed** · Frontend & Design System Engineer (freelance) | Owned the entire web frontend of a medical revenue-recovery platform with paying customers: design tokens, light/dark themes, shared component layer, data-viz on @nivo, TanStack Query caching, Vitest test environment. |
+| **2025** | **GBS Construtora** · Full-Stack Developer (freelance) | Led the company's digital transformation as its sole engineer: proprietary production-control system, end to end. |
+| **2024 – 2026** | **Alok · Pixel Drone · Damoda** · Drone Show Engineer | Live shows with up to 1,600 synchronized aircraft; three months inside a drone-show manufacturer in Shenzhen, working the animation-to-hardware pipeline. |
 
-## Core Skills
-- **Software Development (Python)** — APIs, automation, tooling, backend fundamentals
-- **Frontend Development (React)** — component-based UI, modern web workflows
-- Full Stack Creative Engineering · Software Engineering
-- Technical Art · Unreal Engine Development · 3D Development
-- Drone Show Engineering · 3D Animation
-- **C++**
-- **Maya · Blender**
+> The production systems above are private or client-owned, so they aren't on this profile. The [portfolio site](https://[site]) tells the story with more detail.
 
----
+## How I work
 
-## Experience
+- **Backend:** Python, FastAPI, async SQLAlchemy, Alembic, PostgreSQL (Supabase), NestJS, Prisma, Redis/BullMQ
+- **Frontend:** TypeScript, React, Next.js (App Router), Tailwind CSS, TanStack Query, React Hook Form + Zod, Radix UI
+- **Quality:** pytest, Vitest + Testing Library, Playwright, architecture decision records, pinned runtimes, API contracts generated from the backend
+- **Design engineering:** design tokens, theming, responsive shells, data visualization, accessibility (ARIA, keyboard, screen readers)
+- **3D & real-time:** Unreal Engine, Blender, Maya, procedural animation, drone-show choreography
 
-### Pixel Drone — *Creative Software Engineer | Technical Artist | 3D & Drone Show*  
-**2024 – Present**  
-- Creative and technical director for drone shows  
-- Develops 3D animations synchronized with hundreds of real drones  
-- Works across concept → technical planning → execution  
+## Currently
 
-**Links:**  
-- Instagram: https://www.instagram.com/pixeldronebrasil/  
-- YouTube: https://www.youtube.com/@pixeldronebrasil  
+- Building and running the Copesolo & Concresolo platform
+- Studying Software Engineering at FIAP (B.Sc., 2024 – 2028)
+- Looking for a remote full-stack role with a US or European team
 
 ---
 
-### Ayve Company — *Lead Motion Designer*  
-**2022 – 2024**  
-- Creative lead for digital animations, visual effects, and storyboarding  
-
----
-
-### Freelancer — *3D VR Developer*  
-**2023 – 2025**  
-- Developed 3D animations for architectural visualization projects for cities in the state of Rio de Janeiro  
-
----
-
-## Education
-- **FIAP (Online)** — B.Sc. Software Engineering *(2025 – ongoing)*  
-- **Animation Mentor (USA)** — 3D Character Animation *(2023 – 2024)*  
-- **DaModa (Shenzhen, China)** — Drone Show Design & Operation *(2024)*  
-- **Faculdade Méliès** — Associate Degree in 3D Animation Design *(2022 – 2024)*  
-
----
-
-## Languages
-- Portuguese (PT-BR) — Native  
-- English — Fluent  
-- Spanish — Beginner  
-
----
-
-## Contact
-- Phone: +55 (83) 9-9130-6309  
-- Email: gabrieldantas@gs3motion.com  
-- LinkedIn: https://linkedin.com/in/gabriel3dborges
-
+<sub>Portuguese (native) · English (fluent) · Spanish (beginner)</sub>
